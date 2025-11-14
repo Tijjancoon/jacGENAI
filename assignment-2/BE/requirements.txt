@@ -1,0 +1,2 @@
+graphviz>=0.20.1
+gitpython>=3.1.31
